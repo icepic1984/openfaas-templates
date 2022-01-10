@@ -1,0 +1,8 @@
+language: clisp-sbcl
+fprocess: index
+welcome_message: |
+  You have created a common lisp function using sbcl and the Classic Watchdog.
+
+  To include third-party dependencies edit the requirements.lisp file
+  and add the dependencies to the asd file.
+
